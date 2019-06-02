@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="4" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="54" started-at="2019-05-28T06:28:50Z" finished-at="2019-05-28T06:28:50Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="54" started-at="2019-05-28T06:28:50Z" finished-at="2019-05-28T06:28:50Z">
+      <class name="Annotations">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:Annotations@5442a311]" name="beforeSuite" is-config="true" duration-ms="16" started-at="2019-05-28T06:28:50Z" finished-at="2019-05-28T06:28:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:Annotations@5442a311]" name="beforeTest" is-config="true" duration-ms="1" started-at="2019-05-28T06:28:50Z" finished-at="2019-05-28T06:28:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="browserLaunch()[pri:0, instance:Annotations@5442a311]" name="browserLaunch" is-config="true" duration-ms="1" started-at="2019-05-28T06:28:50Z" finished-at="2019-05-28T06:28:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method status="PASS" signature="clearFields()[pri:0, instance:Annotations@5442a311]" name="clearFields" is-config="true" duration-ms="0" started-at="2019-05-28T06:28:50Z" finished-at="2019-05-28T06:28:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearFields -->
+        <test-method status="PASS" signature="bTestCase()[pri:0, instance:Annotations@5442a311]" name="bTestCase" duration-ms="8" started-at="2019-05-28T06:28:50Z" finished-at="2019-05-28T06:28:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bTestCase -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Annotations@5442a311]" name="afterMethod" is-config="true" duration-ms="1" started-at="2019-05-28T06:28:50Z" finished-at="2019-05-28T06:28:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="clearFields()[pri:0, instance:Annotations@5442a311]" name="clearFields" is-config="true" duration-ms="1" started-at="2019-05-28T06:28:50Z" finished-at="2019-05-28T06:28:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearFields -->
+        <test-method status="PASS" signature="browserLaunch()[pri:0, instance:Annotations@5442a311]" name="browserLaunch" duration-ms="1" started-at="2019-05-28T06:28:50Z" description="Launches the browser" finished-at="2019-05-28T06:28:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Annotations@5442a311]" name="afterMethod" is-config="true" duration-ms="1" started-at="2019-05-28T06:28:50Z" finished-at="2019-05-28T06:28:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="clearFields()[pri:0, instance:Annotations@5442a311]" name="clearFields" is-config="true" duration-ms="1" started-at="2019-05-28T06:28:50Z" finished-at="2019-05-28T06:28:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearFields -->
+        <test-method status="PASS" signature="appLaunch()[pri:1, instance:Annotations@5442a311]" name="appLaunch" duration-ms="1" started-at="2019-05-28T06:28:50Z" description="Launches the application" finished-at="2019-05-28T06:28:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appLaunch -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Annotations@5442a311]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-05-28T06:28:50Z" finished-at="2019-05-28T06:28:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:Annotations@5442a311]" name="afterClass" is-config="true" duration-ms="1" started-at="2019-05-28T06:28:50Z" finished-at="2019-05-28T06:28:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:Annotations@5442a311]" name="afterTest" is-config="true" duration-ms="0" started-at="2019-05-28T06:28:50Z" finished-at="2019-05-28T06:28:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:Annotations@5442a311]" name="afterSuite" is-config="true" duration-ms="1" started-at="2019-05-28T06:28:50Z" finished-at="2019-05-28T06:28:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- Annotations -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
